@@ -1,4 +1,3 @@
-OK ANOTHER CHANGE. I MADE AN EDIT!!!!
 Since I made a career switch to data analytics, the most common question I get is "So how do you start learning data analytics and what resources did you use?".<br />
 
 These people often have a desire to learn but when push comes to shove they stick to their current roles. When I dig a little deeper, the main reason that causes most people to not take action is uncertainty. I get it. There are huge trade-offs and risks to switch careers and we rightly should be cautious.<br />
